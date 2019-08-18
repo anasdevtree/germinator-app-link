@@ -6,5 +6,7 @@
 
 </head>
 <body onload="DetectAndServe()">
+
+<?php include '../footer.php';?>
 </body>
 </html>
